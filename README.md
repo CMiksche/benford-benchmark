@@ -12,3 +12,13 @@ Blog Post: https://blog.m5e.de/post/benchmarking-go-crystal-python-and-js/
 | Crystal | https://github.com/CMiksche/benfordslaw.cr |
 | Go | https://github.com/CMiksche/benford |
 | JavaScript (node) | https://github.com/CMiksche/benfordslaw |
+
+## Build
+
+### Crystal
+
+    crystal build test.cr --release --no-debug
+
+### Go
+
+    go build test.go
