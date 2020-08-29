@@ -1,0 +1,3 @@
+dependencies:
+    benfordslaw:
+      github: cmiksche/benfordslaw.cr

@@ -14,3 +14,12 @@ Blog Post: https://blog.m5e.de/post/benchmarking-go-crystal-python-and-js/
 | JavaScript (node) | https://github.com/CMiksche/benfordslaw |
 
 More information about the test setup can be found in the corresponding language test directory.
+
+## Tests
+
+| Command | Duration |
+| --- | --- |
+| time python/test.py |  |
+| time |  |
+| time |  |
+| time node javascript/test.js |  |
